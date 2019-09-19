@@ -1,0 +1,16 @@
+{
+    "name": "quwahara/hello-app",
+    "description": "Tutorial for composer library",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mitsuaki Kuwahara",
+            "email": "quwahara@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "quwahara/hello-lib": "dev-master"
+    }
+}
